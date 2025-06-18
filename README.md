@@ -65,5 +65,5 @@ Stack:
 ---
 
 <p align="center"with:250px>
-  <img src="https://www.techtarget.com/rms/onlineimages/code_g1289411982_searchsitetablet_520X173.jpg" alt="snake gif" />
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="snake gif" />
 </p>
