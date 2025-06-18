@@ -1,5 +1,5 @@
 <h1 align="center">:gem: uzma hasan 👩🏻‍💻” Full Stack Developer | Hacker | Gamer :video_game:</h1>
-<p align="center">
+<p>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF00FF&width=435&lines=Hey+I+am+Uzma+Hasan+;Gaming+%26++Hacking+%26+coding+now+starts;With+Github+" alt="Typing SVG" />
   </p>
 
