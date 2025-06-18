@@ -1,8 +1,7 @@
 <h1 align="center">:gem: uzma hasan 👩🏻‍💻” Full Stack Developer | Hacker | Gamer :video_game:</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=435&lines=:rocket:+Full-Stack+Next.js+Dev;👩🏻‍💻+Free+Hacker+Mindset;🌐+Founder+of+EchoLink;🎮+Gaming+%2B+AI+%2B+Dev+Lover;☁️+Living+on+Free+Cloud" alt="Typing SVG" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF00FF&width=435&lines=Hey+I+am+Uzma+Hasan+;Gaming+%26++Hacking+%26+coding+now+starts;With+Github+" alt="Typing SVG" />
+  </p>
 
 ---
 
@@ -51,8 +50,8 @@ Stack:
 
 ## :bar_chart: GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anas-devpro&show_icons=true&theme=radical&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anas-devpro&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anas67499&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anas67499&theme=tokyonight" />
 </p>
 
 ---
@@ -60,11 +59,11 @@ Stack:
 ## :email: Connect With Me
 <p align="center">
   <a href="https://discord.gg/dcCwVSVr8"><img src="https://img.shields.io/badge/Discord-EchoLink%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="mailto:anasdev@protonmail.com"><img src="https://img.shields.io/badge/Email-anasdev@protonmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:anasdev@protonmail.com"><img src="https://img.shields.io/badge/Email-ma4230675@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Anas-DevPro/Anas-DevPro/output/github-contribution-grid-snake.svg" alt="snake gif" />
+<p align="center"with:250px>
+  <img src="https://www.techtarget.com/rms/onlineimages/code_g1289411982_searchsitetablet_520X173.jpg" alt="snake gif" />
 </p>
